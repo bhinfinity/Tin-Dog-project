@@ -20,7 +20,7 @@ While Bootstrap may not be as popular today with modern CSS frameworks, I wanted
 - Bootstrap 5
 
 ## Preview
-![Project Preview](./path-to-your-image/image.png)
+![Project Preview](./images/screenshot.png)
 
 
 ## Future Improvements
